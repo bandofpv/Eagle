@@ -1,3 +1,5 @@
+// EXERCISE 1,2, and 3
+
 package eagles;
 
 public class ArithmeticTest {     // Save as "ArithmeticTest.java"
